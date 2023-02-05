@@ -1,5 +1,13 @@
 # NodePop
 
+# NodePop
+
+# link para app de react: http://54.83.175.181/
+
+# link para app de node: http://ec2-54-83-175-181.compute-1.amazonaws.com/
+
+# click en la palabra "Demo" para entrar a la app del node.
+
 [Demo](/anuncios) of the methods (this link works only if you run the project)
 
 Api for the iOS/Android apps.
